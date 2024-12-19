@@ -43,3 +43,5 @@
 **RG19** - Un évènement possède un titre
 
 **RG20** - Un évènement possède une date de début
+
+**RG21** - Un évènement possède une date de fin
