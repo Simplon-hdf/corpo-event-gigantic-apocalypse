@@ -1,5 +1,15 @@
 # Règles de gestion
 
+### Glossaire
+
+**Admin** : Désigne un utilisateur membre de l'entreprise
+
+**Collaborateur** : Désigne une personne collaborant avec l'entreprise
+
+**Utilisateur** : Désigne un collaborateur      
+
+**Visiteur** : Désigne une personne non connectée
+
 ### Gestion des utilisateurs :
 
 **RG01** - Un utilisateur peut être un admin ou un collaborateur
