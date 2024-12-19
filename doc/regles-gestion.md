@@ -24,3 +24,7 @@
 
 **RG11** - Un utilisateur possède un mail
 
+### Gestion des évènements :
+
+**RG12** - Un évènement peut être crée par un admin ou collaborateur
+
