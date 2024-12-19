@@ -1,6 +1,6 @@
 # Règles de gestion
 
-### Glossaire
+### Glossaire :
 
 **Admin** : Désigne un utilisateur membre de l'entreprise
 
