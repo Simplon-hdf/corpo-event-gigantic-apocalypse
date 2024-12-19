@@ -10,3 +10,4 @@
 
 **RG04** - Un utilisateur non authentifié est considéré comme un visiteur
 
+**RG05** - Un visiteur restera bloqué a la page de connexion
