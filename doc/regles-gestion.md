@@ -59,3 +59,5 @@
 **RG22** - Un admin peut supprimer un commentaire
 
 **RG23** - Un collaborateur ou l'admin peut modifier son commentaire
+
+**RG24** - Un collaborateur peut supprimer son commentaire
