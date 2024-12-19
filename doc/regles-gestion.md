@@ -55,3 +55,5 @@
 **RG20** - Un évènement possède une date de fin
 
 **RG21** - Un évènement possède un lieu
+
+**RG22** - Un admin peut supprimer un commentaire
