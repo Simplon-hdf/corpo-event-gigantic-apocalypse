@@ -42,16 +42,16 @@
 
 **RG14** - Un collaborateur peut supprimer l'évènement qu'il a crée
 
-**RG16** - Un admin ou un collbaborateur peut commenter un évènement
+**RG15** - Un admin ou un collbaborateur peut commenter un évènement
 
-**RG17** - Un admin peut modifier n'importe quel évènement
+**RG16** - Un admin peut modifier n'importe quel évènement
 
-**RG18** - Un admin peut supprimer n'importe quel évènement
+**RG17** - Un admin peut supprimer n'importe quel évènement
 
-**RG19** - Un évènement possède un titre
+**RG18** - Un évènement possède un titre
 
-**RG20** - Un évènement possède une date de début
+**RG19** - Un évènement possède une date de début
 
-**RG21** - Un évènement possède une date de fin
+**RG20** - Un évènement possède une date de fin
 
-**RG22** - Un évènement possède un lieu
+**RG21** - Un évènement possède un lieu
