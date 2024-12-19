@@ -36,3 +36,5 @@
 
 **RG16** - Un admin ou un collbaborateur peut commenter un évènement
 
+**RG17** - Un admin peut modifier n'importe quel évènement
+
