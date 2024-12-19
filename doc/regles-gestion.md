@@ -15,3 +15,5 @@
 **RG06** - Un admin peut créer un compte collaborateur
 
 **RG07** - Un admin peut modifier un compte collaborateur
+
+**RG08** - Un admin peut supprimer un compte collaborateur
