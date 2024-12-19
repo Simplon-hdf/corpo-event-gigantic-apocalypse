@@ -31,3 +31,5 @@
 **RG13** - Un collaborateur peut modifier l'évènement qu'il a crée
 
 **RG14** - Un collaborateur peut supprimer l'évènement qu'il a crée
+
+**RG15** - Un admin ou un collaborateur peut participer à un évènement
