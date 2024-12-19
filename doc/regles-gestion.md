@@ -8,3 +8,5 @@
 
 **RG03** - Un utilisateur peut se déconnecter
 
+**RG04** - Un utilisateur non authentifié est considéré comme un visiteur
+
