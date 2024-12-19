@@ -45,3 +45,5 @@
 **RG20** - Un évènement possède une date de début
 
 **RG21** - Un évènement possède une date de fin
+
+**RG22** - Un évènement possède un lieu
