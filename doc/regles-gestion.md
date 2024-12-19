@@ -61,3 +61,5 @@
 **RG23** - Un collaborateur ou l'admin peut modifier son commentaire
 
 **RG24** - Un collaborateur peut supprimer son commentaire
+
+**RG25** - Un collaborateur peut supprimer le commentaire de son évènement
