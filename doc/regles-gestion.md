@@ -39,3 +39,5 @@
 **RG17** - Un admin peut modifier n'importe quel évènement
 
 **RG18** - Un admin peut supprimer n'importe quel évènement
+
+**RG19** - Un évènement possède un titre
