@@ -19,3 +19,5 @@
 **RG08** - Un admin peut supprimer un compte collaborateur
 
 **RG09** - Un utilisateur possède un nom
+
+**RG10** - Un utilisateur possède un prénom
