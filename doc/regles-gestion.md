@@ -57,3 +57,5 @@
 **RG21** - Un évènement possède un lieu
 
 **RG22** - Un admin peut supprimer un commentaire
+
+**RG23** - Un collaborateur ou l'admin peut modifier son commentaire
