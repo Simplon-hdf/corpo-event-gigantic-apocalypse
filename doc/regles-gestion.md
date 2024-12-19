@@ -21,3 +21,6 @@
 **RG09** - Un utilisateur possède un nom
 
 **RG10** - Un utilisateur possède un prénom
+
+**RG11** - Un utilisateur possède un mail
+
