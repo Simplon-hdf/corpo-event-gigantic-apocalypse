@@ -17,3 +17,5 @@
 **RG07** - Un admin peut modifier un compte collaborateur
 
 **RG08** - Un admin peut supprimer un compte collaborateur
+
+**RG09** - Un utilisateur possède un nom
