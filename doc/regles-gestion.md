@@ -46,11 +46,15 @@
 
 **RG18** - Un évènement possède un titre
 
+**RG18** - Un évènement possède une description
+
 **RG19** - Un évènement possède une date de début
 
 **RG20** - Un évènement possède une date de fin
 
 **RG21** - Un évènement possède un lieu
+
+**RG21** - Un évènement possède une section commentaire
 
 **RG22** - Un admin peut supprimer un commentaire
 
