@@ -16,7 +16,7 @@
 
 **RG03** - Un utilisateur peut se déconnecter
 
-**RG04** - Un utilisateur non authentifié est considéré comme un visiteur
+**RG04** - Un utilisateur doit se connecter pour accéder au site
 
 **RG06** - Un admin peut créer un compte collaborateur
 
