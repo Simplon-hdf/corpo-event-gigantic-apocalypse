@@ -56,10 +56,17 @@
 
 **RG21** - Un évènement possède une section commentaire
 
+### Gestion des commentaires
+
+**RG25** - Un collaborateur peut supprimer le commentaire de son évènement
+
 **RG22** - Un admin peut supprimer un commentaire
 
 **RG23** - Un collaborateur ou l'admin peut modifier son commentaire
 
-**RG24** - Un collaborateur peut supprimer son commentaire
+**RG24** - Un collaborateur ou un admin peut supprimer son commentaire
 
-**RG25** - Un collaborateur peut supprimer le commentaire de son évènement
+**RG24** - Un collaborateur peut supprimer les commentaire de l'évènement auquel il est associé
+
+**RG24** - Un collaborateur ou un admin peut ajouter un commentaire sur un évènement
+
