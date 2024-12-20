@@ -34,11 +34,11 @@
 
 **RG12** - Un évènement peut être crée par un admin ou collaborateur
 
-**RG13** - Un collaborateur peut modifier l'évènement qu'il a crée
+**RG13** - Un collaborateur peut modifier l'évènement auquel il est associé
 
-**RG14** - Un collaborateur peut supprimer l'évènement qu'il a crée
+**RG14** - Un collaborateur peut supprimer l'évènement auquel il est associé
 
-**RG15** - Un admin ou un collbaborateur peut commenter un évènement
+**RG15** - Un admin ou un collaborateur peut commenter un évènement
 
 **RG16** - Un admin peut modifier n'importe quel évènement
 
