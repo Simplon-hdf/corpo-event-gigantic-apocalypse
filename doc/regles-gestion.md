@@ -12,54 +12,61 @@
 
 ### Gestion des utilisateurs :
 
-**RG01** - Un utilisateur peut être un admin ou un collaborateur
+**RG01** - Un utilisateur peut se connecter
 
-**RG02** - Un utilisateur peut se connecter
+**RG02** - Un utilisateur peut se déconnecter
 
-**RG03** - Un utilisateur peut se déconnecter
+**RG03** - Un utilisateur doit se connecter pour accéder au site
 
-**RG04** - Un utilisateur non authentifié est considéré comme un visiteur
+**RG04** - Un admin peut créer un compte collaborateur
 
-**RG05** - Un visiteur restera bloqué a la page de connexion
+**RG05** - Un admin peut modifier un compte collaborateur
 
-**RG06** - Un admin peut créer un compte collaborateur
+**RG06** - Un admin peut supprimer un compte utilisateur
 
-**RG07** - Un admin peut modifier un compte collaborateur
+**RG07** - Un utilisateur possède un nom
 
-**RG08** - Un admin peut supprimer un compte collaborateur
+**RG08** - Un utilisateur possède un prénom
 
-**RG09** - Un utilisateur possède un nom
-
-**RG10** - Un utilisateur possède un prénom
-
-**RG11** - Un utilisateur possède un mail
+**RG09** - Un utilisateur possède un mail
 
 ### Gestion des évènements :
 
-**RG12** - Un évènement peut être crée par un admin ou collaborateur
+**RG10** - Un évènement peut être crée par un admin ou collaborateur
 
-**RG13** - Un collaborateur peut modifier l'évènement qu'il a crée
+**RG11** - Un collaborateur peut modifier l'évènement auquel il est associé
 
-**RG14** - Un collaborateur peut supprimer l'évènement qu'il a crée
+**RG12** - Un collaborateur peut supprimer l'évènement auquel il est associé
 
-**RG15** - Un admin ou un collbaborateur peut commenter un évènement
+**RG13** - Un admin ou un collaborateur peut commenter un évènement
 
-**RG16** - Un admin peut modifier n'importe quel évènement
+**RG14** - Un admin peut modifier n'importe quel évènement
 
-**RG17** - Un admin peut supprimer n'importe quel évènement
+**RG15** - Un admin peut supprimer n'importe quel évènement
 
-**RG18** - Un évènement possède un titre
+**RG16** - Un évènement possède un titre
 
-**RG19** - Un évènement possède une date de début
+**RG17** - Un évènement possède une description
 
-**RG20** - Un évènement possède une date de fin
+**RG18** - Un évènement possède une date de début
 
-**RG21** - Un évènement possède un lieu
+**RG19** - Un évènement possède une date de fin
 
-**RG22** - Un admin peut supprimer un commentaire
+**RG20** - Un évènement possède un lieu
 
-**RG23** - Un collaborateur ou l'admin peut modifier son commentaire
+**RG21** - Un évènement possède une section commentaire
 
-**RG24** - Un collaborateur peut supprimer son commentaire
+### Gestion des commentaires
 
-**RG25** - Un collaborateur peut supprimer le commentaire de son évènement
+**RG22** - Un collaborateur peut supprimer le commentaire de son évènement
+
+**RG23** - Un admin peut supprimer un commentaire
+
+**RG24** - Un collaborateur ou l'admin peut modifier son commentaire
+
+**RG25** - Un collaborateur ou un admin peut supprimer son commentaire
+
+**RG26** - Un collaborateur peut supprimer les commentaire de l'évènement auquel il est associé
+
+**RG27** - Un collaborateur ou un admin peut ajouter un commentaire sur un évènement
+
